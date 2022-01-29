@@ -10,7 +10,8 @@ Major backbone of this code is borrowed from very well structed [VisualDet3D](ht
 <img src='https://raw.githubusercontent.com/saurav1869/mono3d_road/master/network_design.png'>
 
 <hr/>
-### Here's the predictions compared to the ground truth(in green).
+
+### Here are the predictions compared to the ground truth(in green).
 
 <img src="https://github.com/saurav1869/saurav1869/blob/main/movie_short.gif" width="400"><img src="https://github.com/saurav1869/saurav1869/blob/main/bev_movie_short.gif" width="400">
 
